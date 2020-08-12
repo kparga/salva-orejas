@@ -33,10 +33,13 @@ Usamos impresoras Ender 3 y Ender 5 para probar los modelos, y Cura como slicer,
 
 ## Armado y montaje
 El enganche se encaja en la pinza del lado correspondiente
-[imagen]
+<img src="ensamble_1.jpg" width="600" />
 
-Luego, la pinza se coloca en el lado correspondiente de la siguiente forma
-[imagen]
+<img src="ensamble_2.jpg" width="600" />
+
+Luego, la pinza se coloca en el lado correspondiente de la siguiente forma: 
+
+<img src="instalacion.jpg" width="600" />
 
 ## Uso y cuidado
 
