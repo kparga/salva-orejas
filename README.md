@@ -24,14 +24,17 @@ Usamos impresoras Ender 3 y Ender 5 para probar los modelos, y Cura como slicer,
 -   Material: PLA
 -   Temperatura de extrusión: 200°C
 -   Temperatura de cama: 60°C
--   Altura de capa: 0.3 mm
--   Número de Shells: 3
--   Densidad de infills: 0% - 10% (casi puros muros, puede ser 0%)
+-   Altura de capa: 0.2 mm
+-   Número de Shells: 2
+-   Densidad de infills: 40%
 -   Velocidad: 60 mm/s infill, 30 mm/s shells.
+-   Raft: No
+-   Soporte: Si
 
 ## Armado y montaje
 El enganche se encaja en la pinza del lado correspondiente
 [imagen]
+
 Luego, la pinza se coloca en el lado correspondiente de la siguiente forma
 [imagen]
 
