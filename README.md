@@ -56,3 +56,10 @@ Una vez instalado en el faceshield, los elasticos de la mascarilla se posicionan
 No es necesario retirarlos del faceshield despues de cada uso.
 
 A la hora de desinfectar, evitar exponer a temperaturas mayores a 130°C. Evitar el uso de **acetato de etilo**, pues disuelve el material usado en la impresión del objeto. 
+
+## ¿Cómo puedes mejorar esto?
+
+Si llegaste a este proyecto, debes saber que hay dos mejoras que le vendrían como anillo al dedo a lo que ya tenemos: 
+
+-   Hacer que el modelo sea más ligero: Inevitablemente agrega peso al faceshield al cual está acoplado, pero lo ideal sería que fuese lo menos posible.
+-   Lograr independencia del faceshield: Actualmente, lo que proponemos es un accesorio. Sin embargo, la problematica de usar mascarillas a diario y tener heridas en las orejas por ello no es exclusivo de quienes usan faceshields; un diseño que no interfiera con su uso es el óptimo.
