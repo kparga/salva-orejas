@@ -5,6 +5,12 @@ Distanciador fácil de desmontar, ubicable, y ligero que alivie el uso de mascar
 
 En el marco del curso ME4030-1 -Seminario de Diseño e Innovación Tecnológica, dictado durante el semestre Otoño 2020, se guía el trabajo en torno al desafio de solucionar problematicas que enfrentan las personas que trabajan en el área de salud durante la pandemia de COVID-19. El desafio especifico que adoptamos fue **crear un aparato que permita usar mascarillas N95 por periodos prolongados de tiempo sin causar molestias en las orejas**. El resultado es un accesorio para los escudos faciales, ligero y ubicable.
 
+<img src="/images/frente.jpeg" width="600" />
+
+<img src="/images/lado.jpeg" width="600" />
+
+<img src="/images/3_4.jpeg" width="600" />
+
 
 ## Partes
 
@@ -33,13 +39,15 @@ Usamos impresoras Ender 3 y Ender 5 para probar los modelos, y Cura como slicer,
 
 ## Armado y montaje
 El enganche se encaja en la pinza del lado correspondiente
-<img src="ensamble_1.jpg" width="600" />
+<img src="/images/ensamble_1.jpg" width="600" />
 
-<img src="ensamble_2.jpg" width="600" />
+<img src="/images/ensamble_2.jpg" width="600" />
 
 Luego, la pinza se coloca en el lado correspondiente de la siguiente forma: 
 
-<img src="instalacion.jpg" width="600" />
+<img src="/images/instalacion.jpg" width="600" />
+
+Prestar especial atención a que la pinza quede a la misma altura que la oreja para su mejor uso.
 
 ## Uso y cuidado
 
